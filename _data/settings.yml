@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Pellicola', folder: 'pages', file: 'pellicola.html'}
+- {name: 'Scozia', folder: 'pages', file: 'scozia.html'}
 - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
